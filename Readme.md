@@ -1,0 +1,1 @@
+Exerício de jdbc utilizando java para criar persistência de dados de alunos e cursos no mysql.
